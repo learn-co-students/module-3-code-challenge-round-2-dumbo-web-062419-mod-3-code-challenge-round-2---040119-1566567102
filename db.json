@@ -5,7 +5,7 @@
       "name": "Buzz",
       "tagline": "A Real Bitter Experience.",
       "first_brewed": "09/2007",
-      "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
+      "description": " Rashad ❤️❤️❤️❤️❤️Mommy",
       "image_url": "https://images.punkapi.com/v2/keg.png",
       "food_pairing": [
         "Spicy chicken tikka masala",
@@ -20,7 +20,7 @@
       "name": "Berliner Weisse With Yuzu - B-Sides",
       "tagline": "Japanese Citrus Berliner Weisse.",
       "first_brewed": "11/2015",
-      "description": "Japanese citrus fruit intensifies the sour nature of this German classic.",
+      "description": "Japanese Sweetness 🍻",
       "image_url": "https://images.punkapi.com/v2/keg.png",
       "food_pairing": [
         "Smoked chicken wings",
@@ -50,7 +50,7 @@
       "name": "Avery Brown Dredge",
       "tagline": "Bloggers' Imperial Pilsner.",
       "first_brewed": "02/2011",
-      "description": "wow so good!",
+      "description": "Cheers mate! 🍻",
       "image_url": "https://images.punkapi.com/v2/5.png",
       "food_pairing": [
         "Vietnamese squid salad",
@@ -170,7 +170,7 @@
       "name": "Alpha Dog",
       "tagline": "Existential Red Ale.",
       "first_brewed": "02/2010",
-      "description": "A fusion of caramel malt flavours and punchy New Zealand hops. A session beer you can get your teeth into.",
+      "description": "CIIIIIIINNNNNNNDDDDYYYYYYYYY",
       "image_url": "https://images.punkapi.com/v2/14.png",
       "food_pairing": [
         "Pastrami",
@@ -269,81 +269,6 @@
         "Caramel and banana meringue pie"
       ],
       "brewers_tips": "If you are struggling to get that authentic head retention increase your mash temperature to about 70°C.",
-      "contributed_by": "Sam Mason <samjbmason>"
-    },
-    {
-      "id": 20,
-      "name": "Vice Bier",
-      "tagline": "Hoppy Wheat Bier.",
-      "first_brewed": "04/2013",
-      "description": "Our take on the classic German Kristallweizen. A clear German wheat beer, layers of bubblegum and vanilla perfectly balanced with the American and New Zealand hops.",
-      "image_url": "https://images.punkapi.com/v2/keg.png",
-      "food_pairing": [
-        "Citrus salad with balsamic dressing",
-        "Lobster",
-        "Ginger and orange cookies"
-      ],
-      "brewers_tips": "Ferment at higher or lower temperatures to select the esters that will create clove- like or banana-like flavours.",
-      "contributed_by": "Sam Mason <samjbmason>"
-    },
-    {
-      "id": 21,
-      "name": "Devine Rebel (w/ Mikkeller)",
-      "tagline": "Oak-aged Barley Wine.",
-      "first_brewed": "12/2008",
-      "description": "Two of Europe's most experimental, boundary-pushing brewers, BrewDog and Mikkeller, combined forces to produce a rebellious beer that combined their respective talents and brewing skills. The 12.5% Barley Wine fermented well, and the champagne yeast drew it ever closer to 12.5%. The beer was brewed with a single hop variety and was going to be partially aged in oak casks.",
-      "image_url": "https://images.punkapi.com/v2/22.png",
-      "food_pairing": [
-        "Stilton on gingerbread biscuits",
-        "Pot roasted artichokes",
-        "Lamb chops with caramelised figs"
-      ],
-      "brewers_tips": "Rack off to a secondary fermenter before pitching in some champagne.",
-      "contributed_by": "Sam Mason <samjbmason>"
-    },
-    {
-      "id": 22,
-      "name": "Storm",
-      "tagline": "Islay Whisky Aged IPA.",
-      "first_brewed": "12/2007",
-      "description": "Dark and powerful Islay magic infuses this tropical sensation of an IPA. Using the original Punk IPA as a base, we boosted the ABV to 8% giving it some extra backbone to stand up to the peated smoke imported directly from Islay.",
-      "image_url": "https://images.punkapi.com/v2/23.png",
-      "food_pairing": [
-        "Oysters",
-        "Hickory smoked ham",
-        "Rocky Road"
-      ],
-      "brewers_tips": "After primary fermentation is complete, rack off into a secondary fermeter and add the oak chips to replicate the authentic Islay barrel experience.",
-      "contributed_by": "Sam Mason <samjbmason>"
-    },
-    {
-      "id": 23,
-      "name": "The End Of History",
-      "tagline": "The World's Strongest Beer.",
-      "first_brewed": "06/2011",
-      "description": "The End of History: The name derives from the famous work of philosopher Francis Fukuyama, this is to beer what democracy is to history. Complexity defined. Floral, grapefruit, caramel and cloves are intensified by boozy heat.",
-      "image_url": "https://images.punkapi.com/v2/24.png",
-      "food_pairing": [
-        "Roasted wood pigeon with black pudding",
-        "Pan seared venison fillet with juniper sauce",
-        "Apricot coconut cake"
-      ],
-      "brewers_tips": "You'll have to get this one all the way down to -70°C. Taxidermy is not optional.",
-      "contributed_by": "Sam Mason <samjbmason>"
-    },
-    {
-      "id": 24,
-      "name": "Bad Pixie",
-      "tagline": "Spiced Wheat Beer.",
-      "first_brewed": "10/2008",
-      "description": "2008 Prototype beer, a 4.7% wheat ale with crushed juniper berries and citrus peel.",
-      "image_url": "https://images.punkapi.com/v2/25.png",
-      "food_pairing": [
-        "Poached sole fillet with capers",
-        "Summer fruit salad",
-        "Banana split"
-      ],
-      "brewers_tips": "Make sure you have plenty of room in the fermenter. Beers containing wheat can often foam aggressively during fermentation.",
       "contributed_by": "Sam Mason <samjbmason>"
     }
   ]
